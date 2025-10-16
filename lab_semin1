@@ -1,0 +1,17 @@
+import React from "react";
+
+function Welcome({ name }) {
+  return <h2>Welcome, {name}!</h2>;
+}
+
+function App() {
+  return (
+    <div>
+      <Welcome name="Deepak" />
+      <Welcome name="Dinesh" />
+      <Welcome name="Priya" />
+    </div>
+  );
+}
+
+export default App;
