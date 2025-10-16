@@ -9,7 +9,7 @@ function App() {
     <div>
       <Welcome name="Deepak" />
       <Welcome name="Dinesh" />
-      <Welcome name="Priya" />
+      <Welcome name="Ajay" />
     </div>
   );
 }
